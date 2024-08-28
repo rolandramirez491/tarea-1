@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">tarea 1</string>
+    <string name="hola">Hola</string>
+    <string name="mundo">Mundo</string>
 </resources>
